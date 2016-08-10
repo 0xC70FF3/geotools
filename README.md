@@ -2,11 +2,11 @@ _This was originally made as a part of a location analysis prototype I was exper
 
 _As I had quite a hard time finding some solid resources that work with geohashes, I thought it would be a good idea to opensource it; It is quite a simple example of how to deal and what can be made with geohashes._
 
-![Logo](https://github.com/0xC70FF3/geotools/blob/master/logo.png?raw=true =150x)
+<img src="https://github.com/0xC70FF3/geotools/blob/master/logo.png?raw=true" width="150"/>
 # Geotools 
 ![Status](https://img.shields.io/badge/status-stable-green.svg?style=shield) 
 [![Circle CI](https://circleci.com/gh/0xC70FF3/geotools/tree/master.svg?style=shield)](https://circleci.com/gh/0xC70FF3/geotools/tree/master) 
-![Coverage Status](https://img.shields.io/badge/coverage-80%-green.svg?style=shield) 
+<img src="https://img.shields.io/badge/coverage-80%-green.svg?style=shield"/> 
 ![GoDoc](http://img.shields.io/badge/licence-MIT-blue.svg?style=shield) 
 
 This repository offers a toolbox for working with geometrical 2D shapes and geohashes.
