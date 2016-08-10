@@ -6,7 +6,7 @@ _As I had quite a hard time finding some solid resources that work with geohashe
 # Geotools 
 ![Status](https://img.shields.io/badge/status-stable-green.svg?style=shield) 
 [![Circle CI](https://circleci.com/gh/0xC70FF3/geotools/tree/master.svg?style=shield)](https://circleci.com/gh/0xC70FF3/geotools/tree/master) 
-<img src="https://img.shields.io/badge/coverage-80%-green.svg?style=shield"/> 
+<img src="https://img.shields.io/badge/coverage-80-green.svg?style=shield"/> 
 ![GoDoc](http://img.shields.io/badge/licence-MIT-blue.svg?style=shield) 
 
 This repository offers a toolbox for working with geometrical 2D shapes and geohashes.
