@@ -1,0 +1,9 @@
+machine:
+  python:
+    version: 3.5.0
+
+test:
+  pre:
+    - pip install coverage
+  override:
+    - nosetests --with-coverage --cover-package=pygeotools
