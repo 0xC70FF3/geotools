@@ -12,7 +12,7 @@ def readme():
 
 
 setup(
-    name='pygeotools',
+    name='geotools',
     version='0.0.9',
     description='Geolocation Tools for Python3',
     long_description=readme(),
@@ -23,16 +23,16 @@ setup(
         'Topic :: Scientific/Engineering :: Geolocation'
     ],
     keywords='geohash',
-    url='http://github.com/0xC70FF3/pygeotools',
+    url='http://github.com/0xC70FF3/geotools',
     author='Christophe Cassagnabère',
-    author_email='christophe@hotmail.com',
+    author_email='cassagnachristophe@hotmail.com',
     license='MIT',
     packages=find_packages(),
     install_requires=requires(),
     test_suite='nose.collector',
     tests_require=['nose', 'coverage', 'nose-cover3'],
     entry_points={
-        'console_scripts': ['pygeotools=pygeotools.__main__:main'],
+        'console_scripts': ['pygeotools=geotools.__main__:main'],
     },
     include_package_data=True,
     zip_safe=True
