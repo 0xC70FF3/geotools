@@ -6,4 +6,4 @@ test:
   pre:
     - pip install coverage
   override:
-    - nosetests --with-coverage --cover-package=pygeotools
+    - nosetests --with-coverage --cover-package=geotools
